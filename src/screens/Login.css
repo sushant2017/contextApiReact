@@ -1,0 +1,14 @@
+.loginApp {
+  text-align: center;
+  width: 100%;
+}
+.loginApp > input {
+  width: 100%;
+}
+.error {
+  color: red;
+  font-size: 15px;
+}
+.MuiFormControl-root {
+  width: 25%;
+}
